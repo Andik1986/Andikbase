@@ -15,3 +15,4 @@ Update 03 - Base Mainnet Deployment
 Update 04 - Repository Improvement
 Update 05 - Contract Notes
 Update 06 - Development Progress
+Update 07 - Solidity Learning
