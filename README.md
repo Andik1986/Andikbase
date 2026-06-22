@@ -50,3 +50,4 @@ Update 38 - Builder Notes
 Update 39 - Repository Maintenance
 Update 40 - Smart Contract Progress
 Update 41 - Base Ecosystem Study
+Update 42 - Documentation Update
