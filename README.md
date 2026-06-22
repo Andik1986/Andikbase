@@ -30,3 +30,4 @@ Update 17 - Smart Contract Research
 Update 18 - Base Chain Exploration
 Update 19 - Documentation Expansion
 Update 20 - Project Update
+Update 21 - Solidity Practice
