@@ -12,3 +12,4 @@ Contains the Solidity source code deployed on Base.
 Update 01 - Base Builder Journey
 Update 02 - Smart Contract Documentation
 Update 03 - Base Mainnet Deployment
+Update 04 - Repository Improvement
