@@ -41,3 +41,4 @@ Update 28 - Technical Documentation
 Update 29 - Smart Contract Update
 Update 30 - Builder Activity
 Update 31 - Project Documentation
+Update 32 - Repository Progress
