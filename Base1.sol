@@ -10,3 +10,5 @@ Base Mainnet
 Base1.sol
 ## Language
 Solidity
+## Compiler
+0.8.20
