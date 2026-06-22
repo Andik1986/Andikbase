@@ -8,3 +8,5 @@ contract HelloBase {
 Base Mainnet
 ## Smart Contract
 Base1.sol
+## Language
+Solidity
