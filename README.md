@@ -35,3 +35,4 @@ Update 22 - Builder Progress
 Update 23 - Repository Revision
 Update 24 - Contract Improvement
 Update 25 - Development Notes
+Update 26 - Base Network Learning
