@@ -39,3 +39,4 @@ Update 26 - Base Network Learning
 Update 27 - GitHub Contribution
 Update 28 - Technical Documentation
 Update 29 - Smart Contract Update
+Update 30 - Builder Activity
