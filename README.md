@@ -14,3 +14,4 @@ Update 02 - Smart Contract Documentation
 Update 03 - Base Mainnet Deployment
 Update 04 - Repository Improvement
 Update 05 - Contract Notes
+Update 06 - Development Progress
