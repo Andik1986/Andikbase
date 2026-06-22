@@ -10,3 +10,4 @@ Contract Address:
 Repository:
 Contains the Solidity source code deployed on Base.
 Update 01 - Base Builder Journey
+Update 02 - Smart Contract Documentation
