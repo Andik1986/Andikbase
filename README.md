@@ -17,3 +17,4 @@ Update 05 - Contract Notes
 Update 06 - Development Progress
 Update 07 - Solidity Learning
 Update 08 - Base Ecosystem
+Update 08 - Base Ecosystem
