@@ -33,3 +33,4 @@ Update 20 - Project Update
 Update 21 - Solidity Practice
 Update 22 - Builder Progress
 Update 23 - Repository Revision
+Update 24 - Contract Improvement
