@@ -21,3 +21,4 @@ Update 08 - Base Ecosystem
 Update 09 - Contract Review
 Update 10 - GitHub Activity
 Update 11 - Project Maintenance
+Update 12 - Documentation Revision
