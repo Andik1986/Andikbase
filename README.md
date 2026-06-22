@@ -44,3 +44,4 @@ Update 31 - Project Documentation
 Update 32 - Repository Progress
 Update 34 - Base Builder Update
 Update 35 - Contract Documentation
+Update 36 - Project Enhancement
